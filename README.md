@@ -4,9 +4,6 @@ Oi 👋 Eu sou a Angelica Rego Barros
 Developer Student
 -----------------
 
-* 🌍  I'm based in Recife
-* ✉️  You can contact me at [angelsrb.vouserdev@gmail.com](mailto:angelsrb.vouserdev@gmail.com)
-* ⚡  Sou apaixonada por doguinhos
 
 <a href="https://www.twitter.com/angelsrb_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/angelsrb_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
