@@ -28,3 +28,11 @@ src="https://img.shields.io/twitter/follow/angelsrb_?logo=twitter&style=for-the-
 <p align="left"> <a href="https://discord.com/users/angelsrb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/angel.rbarros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/angelsrb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/angelrb0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/angelsrb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/angelsrb_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xxq7jiwkuzpkxu422as30t0tp)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xxq7jiwkuzpkxu422as30t0tp&count={count})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xxq7jiwkuzpkxu422as30t0tp&width={width})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xxq7jiwkuzpkxu422as30t0tp&unique={true|1|on|yes})
