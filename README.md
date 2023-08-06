@@ -29,10 +29,3 @@ src="https://img.shields.io/twitter/follow/angelsrb_?logo=twitter&style=for-the-
 
 ### Badges
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xxq7jiwkuzpkxu422as30t0tp)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xxq7jiwkuzpkxu422as30t0tp&count={count})
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xxq7jiwkuzpkxu422as30t0tp&width={width})
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xxq7jiwkuzpkxu422as30t0tp&unique={true|1|on|yes})
