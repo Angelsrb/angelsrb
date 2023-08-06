@@ -25,3 +25,5 @@ Developer Student
 
 ### Badges
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=xxq7jiwkuzpkxu422as30t0tp)
+
