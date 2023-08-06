@@ -5,10 +5,6 @@ Developer Student
 -----------------
 
 
-<a href="https://www.twitter.com/angelsrb_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/angelsrb_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelsrb&show_icons=true&theme=dracula)
 
 ### Skills
