@@ -1,7 +1,7 @@
 Oi 👋 Eu sou a Angelica Rego Barros
 =====================================
 
-Developer Student
+Front End Developer 
 -----------------
 
 
